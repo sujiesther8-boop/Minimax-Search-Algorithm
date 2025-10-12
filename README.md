@@ -1,6 +1,6 @@
 <h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: MOHAMED K Santhosh </h3>
-<h3>Register Number: 212224050041 </h3>
+<h3>Name: SUJITHA ESTHER S </h3>
+<h3>Register Number: 212224060266 </h3>
 <H3>Aim:</H3>
 <p>
     Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game
